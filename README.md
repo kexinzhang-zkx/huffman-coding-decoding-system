@@ -13,6 +13,11 @@ This program implements the classic Huffman coding algorithm, which is a lossles
 
 ---
 
+## ✨Demo Results
+<img src="demo.jpg" width="500">
+
+---
+
 ## 🚀 How to Run
 ### 1. Compile
 ```bash
